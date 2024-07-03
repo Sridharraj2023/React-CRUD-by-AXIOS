@@ -1,8 +1,4 @@
-# React + Vite
+# React + AXIOS - CRUD Operaton.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple CRUD (Create, Read, Update, Delete) application built with React and Axios. It demonstrates how to manage a list of items with basic CRUD operations.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
